@@ -10,4 +10,8 @@ git commit -m
 
 git commit -am -- this is add all the added/modified files and commit the changes to Git repository
 
+## Demo Site content
+
+1. index.html
+
 git status -- this will give add/modified file details and commit status
