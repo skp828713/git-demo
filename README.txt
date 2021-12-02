@@ -15,3 +15,4 @@ git commit -am -- this is add all the added/modified files and commit the change
 1. index.html
 
 git status -- this will give add/modified file details and commit status
+git restore --filename - this will restore the previous version in working directory
