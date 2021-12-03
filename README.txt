@@ -17,6 +17,7 @@ git restore file_name -- this will revert changes from the working directory
 ## Demo Site content
 
 1. index.html
+2. will add more files
 
 git status -- this will give add/modified file details and commit status
 git restore --filename - this will restore the previous version in working directory
